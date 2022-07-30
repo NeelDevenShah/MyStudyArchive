@@ -1,4 +1,0 @@
-For getting the date and time we have the follwing method:
-	Date date=new Date();
-
-//Tada we get the date and time here
