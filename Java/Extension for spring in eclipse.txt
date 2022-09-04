@@ -1,0 +1,4 @@
+market place-->spring boot 4
+
+We can make new spring project in the vs code by clicking ctrl+shift+p to get choice
+what to make and than we will select an spring maven project by spring Initializr
