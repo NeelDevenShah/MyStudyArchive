@@ -1,0 +1,7 @@
+For making and using the spring boot project in the intelij, We have to install an plugin named
+spring assistant, By going first into the configure from the home page of intellij and than in
+it there is an option of plugin than in search, Search for plugin and init go to market place and
+install the spring assistant and restart the intrllij
+
+-->And after that we can go to the spring assitant logo shown in the home page and by clicking 
+on it and giving the details we can create spring boot project
