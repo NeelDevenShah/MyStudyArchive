@@ -1,0 +1,8 @@
+Most of the libraries related to the machine learning like numpy, pandas, pytesseract, opencv, etc many others is installed under the conda environment
+while the library named pdf2image, PyPDF2 are installed directly in the terminal environment
+
+-->And in the vs code we can use the conda environemnt by fist running the any simple print file, And than the terminal which runs that file, In it we have to write the "conda activate" to run the conda in the vscode, And after that when we run any file in that terminal it would be runned in the conda environment
+
+-->And we can use the jupyter lab by writing the following command in the terminal:
+1. conda activate
+2. jupyter lab
