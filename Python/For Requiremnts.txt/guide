@@ -1,0 +1,6 @@
+For getting the requirements.txt we will use the pipreqs library, which can scan all the libraries used in the project from that particular folder, Not all the files that are present in particular environment
+
+--> But it does not scan the files from the jupuyter notebook
+
+$ pipreqs /home/project/location
+Successfully saved requirements file in /home/project/location/requirements.txt
