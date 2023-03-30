@@ -1,0 +1,36 @@
+declare
+
+n1 number := :Enter_Number;
+fact number := 1;
+temp number;
+
+
+begin
+    temp := n1;
+
+    loop
+        fact := fact*temp;
+        temp := temp-1;
+        if temp=1 then
+            exit;
+        end if;
+    end loop;
+
+    dbms_output.put_line('Factorial : ' || fact);
+
+    fact := 1;
+    temp := n1;
+    while temp>0 loop
+        fact := fact*temp;
+        temp := temp-1;
+    end loop;
+
+    dbms_output.put_line('Factorial : ' || fact);
+
+    fact := 1;
+    for i in 1..n1 loop
+        fact := fact*i;
+    end loop;
+
+    dbms_output.put_line('Factorial : ' || fact);
+end;

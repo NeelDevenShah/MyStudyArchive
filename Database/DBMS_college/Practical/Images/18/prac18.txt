@@ -1,0 +1,18 @@
+/*To solve queries using the concept of View.*/
+
+/*(1) Write a query to create a view for those employee belongs to the location New York.*/
+
+create view accemploc as select * from emp where emp_loc = 'NEW YORK'
+select * from accemploc
+
+/*(2) Write a query to create a view for all employee with columns emp_id, emp_name, and job_id.*/
+
+create view accempjob as select emp_id, emp_name, job_id from emp;
+
+/*(3) Write a query to find the salesmen of the location New York who having salary more than 3000.*/
+
+select emp_name from accemploc where emp_sal > 3000
+
+/*(4) Write a query to create a view to getting a count of how many employee we have at each department.*/
+
+create view accempdept as select dept_no,count(emp_id) "Employee count" from emp group by dept_no

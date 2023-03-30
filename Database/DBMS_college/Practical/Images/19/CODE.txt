@@ -1,0 +1,23 @@
+create or replace procedure update_emp_sal(empid number,newsal number) is
+row_updated number;
+begin
+update employee set emp_sal = newsal where emp_no = empid; 
+row_updated := SQL%rowcount;
+if row_updated = 0 then
+dbms_output.put_line('Salary not updated ! No employee with Emp_no '||empid||' found !');
+else
+dbms_output.put_line('Salary updated for employee with Emp_no '||empid||'.');
+end if;
+end;
+
+create or replace procedure update_emp_sal(empid number,newsal number) is
+row_updated number;
+begin
+update employee set emp_sal = newsal where emp_no = empid; 
+row_updated := SQL%rowcount;
+if row_updated = 0 then
+dbms_output.put_line('Salary not updated ! No employee with Emp_no '||empid||' found !');
+else
+dbms_output.put_line('Salary updated for employee with Emp_no '||empid||'.');
+end if;
+end;

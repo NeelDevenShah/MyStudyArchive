@@ -1,0 +1,32 @@
+create or replace function add100(amount number) return number is
+begin
+return amount+100;
+end;
+
+create or replace function sub100(amount number) return number is
+begin
+return -100;
+end;
+
+declare
+
+id number := :Enter_ID;
+amount number := 0;
+excep_amt_negative exception;
+
+begin
+select emp_sal into amount from employee where emp_no = id;
+
+amount := sub100(amount);
+
+if amount < 0 then
+raise excep_amt_negative;
+end if;
+
+update employee set emp_sal = amount where emp_no =id;
+dbms_output.put_line(amount);
+
+exception when excep_amt_negative then
+dbms_output.put_line('Amount is negative.');
+
+end;

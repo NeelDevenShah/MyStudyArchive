@@ -1,0 +1,37 @@
+/*To perform the concept of cursor*/
+
+/*(a) Display all the information of EMP table using %ROWTYPE. */
+
+declare
+cursor getalldetails is select * from employee;
+var employee%rowtype;
+begin
+dbms_output.put_line('All details are as follows :- ');
+for i in getalldetails loop
+var := i;
+dbms_output.put_line(var.emp_no||'	'|| var.emp_name||'	'||var.emp_sal||'	'||var.emp_comm||'	'||var.dept_no||'	'||var.l_name||'	'||var.dept_name||'						'||var.job_id||'		'||var.location||'	'||var.manager_id||'	'||var.hiredate);
+end loop;
+end;
+
+/*(b) Create a PL/SQL block that does the following: 
+In a PL/SQL block, retrieve the name, salary, and MANAGER ID of the employees working in the 
+particular department. Take Department Id from user. 
+If the salary of the employee is less than 1000 and if the manager ID is either 7902 or 7839, display 
+the message <<last name>> Due for a raise. Otherwise, display the message <<last_name>> Not due 
+for a raise.*/
+
+declare 
+dept_number number := :Enter_dept_no_;
+cursor getbydept is select emp_name,l_name, emp_sal, manager_id from employee where dept_no = dept_number;
+
+begin
+
+for i in getbydept loop
+if i.emp_sal < 1000 AND (i.manager_id = 7902 OR i.manager_id = 7839) then
+dbms_output.put_line(i.l_name || ', Due for a raise.');
+else
+dbms_output.put_line(i.l_name || ', Not due for a raise.');
+end if;
+
+end loop;
+end;

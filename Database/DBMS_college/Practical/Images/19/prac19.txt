@@ -1,0 +1,61 @@
+/*prac19*/
+
+/*To perform the concept of function and procedure*/
+
+/*Write a PL/SQL block to update the salary of employee specified by empid. If record exist, then 
+update the salary otherwise display appropriate message. Write a function as well as procedure for 
+updating salary.*/
+
+/*creating procedure*/
+
+create or replace procedure update_emp_sal(empid number,newsal number) is
+row_updated number;
+begin
+update employee set emp_sal = newsal where emp_no = empid; 
+row_updated := SQL%rowcount;
+if row_updated = 0 then
+dbms_output.put_line('Salary not updated ! No employee with Emp_no '||empid||' found !');
+else
+dbms_output.put_line('Salary updated for employee with Emp_no '||empid||'.');
+end if;
+end;
+
+/*creating function*/
+
+/*function will return 1 if it is successful or else it will return -1 if was unsuccessful.*/
+
+create or replace function fun_update_emp_sal(empid number,newsal number) return number is
+row_updated number;
+flag number; 
+begin
+update employee set emp_sal = newsal where emp_no = empid; 
+row_updated := SQL%rowcount;
+if row_updated = 0 then
+flag := -1;
+else
+flag := 1;
+end if;
+return flag;
+end;
+
+declare
+flag number;
+empid number  := :Enter_emp_id_;
+newsal number := :Enter_New_Salary_;
+begin
+
+dbms_output.put_line('Updating by Procedure ....');
+
+update_emp_sal(empid,newsal);
+
+dbms_output.put_line('Updating by Function ....');
+
+flag := fun_update_emp_sal(empid,newsal);
+
+if flag = -1 then
+dbms_output.put_line('Salary not updated ! No employee with Emp_no '||empid||' found !');
+else
+dbms_output.put_line('Salary updated for employee with Emp_no '||empid||'.');
+end if;
+
+end;

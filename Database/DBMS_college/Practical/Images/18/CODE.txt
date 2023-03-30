@@ -1,0 +1,8 @@
+create view accemploc as select * from employee where location = 'NEW YORK'
+select * from accemploc
+
+create view accempjob as select emp_no, emp_name, job_id from employee;
+
+select emp_name from accemploc where emp_sal > 3000
+
+create view accempdept as select dept_no,count(emp_no) "Employee count" from employee group by dept_no

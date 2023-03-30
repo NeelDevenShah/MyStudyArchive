@@ -1,0 +1,30 @@
+create or replace package pkg is 
+this_is_var varchar2(10):='Variables';
+
+procedure this_is_procedure; 
+
+function this_is_function return number; 
+end;
+
+create or replace package body pkg is
+
+procedure this_is_procedure is
+begin
+dbms_output.put_line('This is a procedure.');
+end this_is_procedure;
+
+function this_is_function return number is
+begin
+dbms_output.put_line('This is a function returning 0.');
+return 0;
+end this_is_function;
+end pkg;
+
+declare
+flag number;
+begin
+dbms_output.put_line(pkg.this_is_var);
+pkg.this_is_procedure();
+flag := pkg.this_is_function();
+dbms_output.put_line(flag);
+end;

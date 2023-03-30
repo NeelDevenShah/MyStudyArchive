@@ -1,0 +1,10 @@
+declare
+n1 number := :Enter_Number_1;
+n2 number := :Enter_Number_2;
+n3 number := :Enter_Number_3;
+
+
+begin
+    dbms_output.put_line('Sum : ' || (n1+n2+n3));
+    dbms_output.put_line('Average : ' || (n1+n2+n3)/3);
+end;

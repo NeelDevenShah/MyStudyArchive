@@ -1,0 +1,19 @@
+ALTER TABLE DEPOSIT ADD INTEREST NUMBER(5) DEFAULT 0
+UPDATE DEPOSIT SET INTEREST = AMOUNT * 0.10
+
+UPDATE DEPOSIT SET INTEREST = AMOUNT*0.1 WHERE DEPOSIT.BNAME = 'VRCE' 
+
+UPDATE DEPOSIT SET INTEREST = AMOUNT*0.10  WHERE BNAME = ANY(SELECT BNAME FROM BRANCH WHERE CITY = 'NAGPUR' OR CITY = 'BOMBAY') 
+
+UPDATE EMPLOYEE SET DEPT_NO = (SELECT DEPT_NO FROM EMPLOYEE WHERE EMP_NO = 7844) WHERE EMP_NO = 7788
+
+update deposit set amount = amount - 10 where cname = 'ANIL' AND BNAME = (SELECT BNAME FROM DEPOSIT WHERE CNAME = 'SUNIL')
+update deposit set amount = amount + 10 where cname = 'SUNIL' AND BNAME = (SELECT BNAME FROM DEPOSIT WHERE CNAME = 'ANIL')
+
+update deposit set amount = amount + 100 where (bname,amount) in (select bname,max(amount) from deposit group by bname)
+
+delete from deposit where 3 >= any(select count(cname) from deposit group by bname) 
+
+delete from deposit where cname = 'vijay'
+
+delete from borrow where amount < 1000

@@ -1,0 +1,27 @@
+/*To perform the concept of trigger*/
+
+/*Write a PL/SQL block to update the salary where deptno is 10. Generate trigger that will store the 
+original record in other table before updation take place.*/
+
+/*Creating table to store orignal records*/
+
+create table org_emp as select * from employee where emp_name = 'no_name'
+
+/*Creating trigger on employee*/
+
+create or replace trigger onupdate
+before update of emp_sal on employee 
+for each row
+begin
+if :old.dept_no = 10 then
+insert into org_emp (emp_no,emp_sal)values(:old.emp_no ,:old.emp_sal);
+end if;
+end;
+
+/*Updating row with dept_no = 10 in employee table*/
+
+update employee set emp_sal = 99 where dept_no = 10
+
+/*Checking data in org_emp table*/
+
+select * from org_emp

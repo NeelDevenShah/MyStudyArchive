@@ -1,0 +1,40 @@
+/*prac20*/
+
+/*Write a PL/SQL block that will accept the employee code, amount and operation. Based on specified 
+operation amount is added or deducted from salary of said employee. Use user defined exception 
+handler for handling the exception.
+*/
+
+create or replace function add100(amount number) return number is
+begin
+return amount+100;
+end;
+
+create or replace function sub100(amount number) return number is
+begin
+return amount-100;
+end;
+
+declare
+
+id number :=1;
+amount number := 0;
+excep_amt_negative exception;
+
+begin
+select emp_sal into amount from emp where emp_id = id;
+
+amount := sub100(amount);
+
+if amount < 0 then
+raise excep_amt_negative;
+end if;
+
+update emp set emp_sal = amount where emp_id =id;
+dbms_output.put_line(amount);
+
+exception when excep_amt_negative then
+dbms_output.put_line('Amount is negative.');
+
+end;
+

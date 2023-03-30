@@ -1,0 +1,50 @@
+﻿SELECT SUM(AMOUNT) FROM DEPOSIT
+
+SELECT SUM(AMOUNT) FROM BORROW WHERE BNAME = 'KAROLBAGH'
+
+SELECT max (AMOUNT) FROM BORROW WHERE BNAME = 'VRCE'
+
+SELECT COUNT (CNAME) FROM CUSTOMERS
+
+SELECT COUNT (DISTINCT CITY) FROM CUSTOMERS
+
+CREATE TABLE SUPPLIER AS SELECT * FROM EMPLOYEE
+
+CREATE TABLE SUP1 AS (SELECT EMP_NO , EMP_NAME FROM EMPLOYEE)
+
+CREATE TABLE SUP2 AS SELECT * FROM EMPLOYEE WHERE EMP_NAME ='NO NAME'
+
+INSERT INTO SUP2 SELECT * FROM EMPLOYEE WHERE EMP_NAME LIKE '_N___'
+
+DELETE SUP1
+
+DELETE FROM SUP1 WHERE EMP_NO = 103
+
+RENAME SUP2 TO SUPP0  
+OR
+ALTER TABLE SUP2 RENAME TO SUPP0
+
+DROP TABLE SUP1
+
+update employee set DEPT_NO=10 where EMP_NAME like '_M%'
+
+UPDATE EMPLOYEE SET EMP_NAME='UPDATED NAME' WHERE EMP_NO = 103
+
+alter table EMPLOYEE add phone number(10)
+
+alter table employee modify emp_name varchar2(30)
+
+select count(distinct dept_no) from employee where emp_sal > 1000
+
+select * from employee order by emp_name asc , emp_no desc
+
+select distinct dept_no from employee order by dept_no asc
+
+select emp_comm from employee order by emp_comm desc nulls last
+
+update employee set emp_comm = 500 where dept_no = 20
+
+select emp_comm from employee order by emp_comm asc nulls first
+select emp_sal from employee order by emp_sal desc nulls first
+
+SELECT EMP_COMM ,EMP_NO FROM EMPLOYEE ORDER BY EMP_COMM ASC nulls last ,EMP_NO DESC

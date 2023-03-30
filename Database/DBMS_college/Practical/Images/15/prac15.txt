@@ -1,0 +1,75 @@
+
+/*
+
+FIRST RUN THIS 2 COMMANDS ...
+
+--Creating duplicate table for operation
+
+CREATE TABLE EMPLOYEES AS (SELECT * FROM EMPLOYEE)
+
+--Altering table and adding STARS column 
+
+ALTER TABLE EMPLOYEES ADD STARS VARCHAR2(20)
+*/
+
+
+DECLARE
+
+-- For gettiing max and min employee numbers
+
+     MIN_EMP_NO EMPLOYEES.EMP_NO%TYPE;
+     MAX_EMP_NO EMPLOYEES.EMP_NO%TYPE;
+
+-- For counting number of stars using round(emp_sal/1000)
+
+     NO_STAR NUMBER;
+
+--For creating star string
+
+     STAR_STR VARCHAR2(20);
+
+BEGIN
+
+--Setting upper bound and lower bound for FOR loop
+
+     SELECT MAX(EMP_NO) INTO MAX_EMP_NO FROM EMPLOYEES;
+     SELECT MIN(EMP_NO) INTO MIN_EMP_NO FROM EMPLOYEES;
+
+--Adding FOR loop for adding data in stars column.
+
+     FOR i IN MIN_EMP_NO .. MAX_EMP_NO LOOP
+
+          SELECT ROUND(EMP_SAL/1000) INTO NO_STAR FROM EMPLOYEES WHERE EMP_NO = i;
+
+--Checking if * can be added or not.
+
+          IF NO_STAR > 0 THEN 
+
+--Resetting startstr for every new row
+
+               STAR_STR := '';
+
+--Adding FOR loop for creating star string
+
+               FOR j  IN 1 .. NO_STAR LOOP
+
+                    STAR_STR := STAR_STR || '*';
+
+               END LOOP;
+
+          END IF;
+
+--Adding starstr to row now 
+
+          UPDATE EMPLOYEES SET STARS = STAR_STR WHERE EMP_NO = i ;
+
+     END LOOP;
+
+END;
+
+
+
+
+
+
+
