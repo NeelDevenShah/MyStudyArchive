@@ -1,0 +1,7 @@
+pytorch
+gymnasium (previously gym)
+keras-rl
+tensorforce
+rl-coach
+pyqlearning
+tf-agents
