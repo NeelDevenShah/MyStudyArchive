@@ -1,0 +1,2055 @@
+der Mann; the man
+die Frau; the woman
+der Junge; the boy
+ich; I
+ich bin; I am
+ein; one
+eine; a
+du; you
+du bist; you are
+das Kind; the child
+das Mädchen; the girl
+und; and
+das Brot; the bread
+das Wasser; the water
+er; he
+sie; they
+es; it
+ist; is
+er trinkt; he drinks
+wir; we
+ihr; you
+wir sind; we are
+ihr seid; you are
+die Männer; the men
+die Frauen; the women
+die Jungen; the boys
+die Kinder; the children
+hallo; hello
+tschüss; bye
+danke; thank you
+ja; yes
+nein; no
+guten morgen; good morning
+guten abend; good evening
+wie geht's; how are you
+mir geht's gut; I'm fine
+willkommen; welcome
+auf wiedersehen; goodbye
+bis später; see you later
+bis morgen; see you tomorrow
+es tut mir leid; I am sorry
+gute nacht; good night
+genau; exactly
+leider; unfortunately
+ich trinke; I drink
+du trinkst; you drink
+wir trinken; we drink
+die Milch; the milk
+ich esse; I eat
+sie isst; she eats
+wir essen; we eat
+ihr esst; you eat
+der Apfel; the apple
+sie liest; she reads
+die Zeitung; the newspaper
+ich lese; I read
+wir lesen; we read
+das Buch; the book
+die Bücher; the books
+er hat; he has
+ich habe; I have
+du hast; you have
+ihr habt; you have
+wir haben; we have
+kommen; to come
+aus; out
+Deutschland; Germany
+Deutsch; German
+Englisch; English
+sprechen; to speak
+verstehen; to understand
+das Essen; the food
+der Hunger; the hunger
+die Pizza; the Pizza
+die Suppe; the soup
+der Fisch; the fish
+das Eis; the ice cream
+gut; good
+der Tee; the tea
+der Durst; the thirst
+schmeckt; tastes
+der Kaffee; the coffee
+das Bier; the beer
+der Wein; the Wine
+das Obst; the fruit
+die Orange; the orange
+die Banane; the banana
+der Saft; the juice
+der Apfelsaft; the apple juice
+der Orangensaft; the orange juice
+das Ei; the egg
+der Käse; the cheese
+das Fleisch; the meat
+das Gemüse; the vegetables
+die Kartoffel; the potato
+süß; sweet
+die Schokolade; the chocolate
+der Zucker; the sugar
+die Erdbeere; the strawberry
+frisch; fresh
+lecker; delicious
+das Salz; the salt
+die Nudeln; the noodles
+der Reis; the rice
+das Öl; the oil
+das Tier; the animal
+fressen; to eat
+die Katze; the cat
+der Hund; the dog
+die Maus; the mouse
+der Bär; the bear
+das Haustier; the pet
+die Kuh; the cow
+das Pferd; the horse
+das Schwein; the pig
+der Vogel; the bird
+die Ente; the duck
+die Spinne; the spider
+das Insekt; the insect
+die Biene; the bee
+der Käfer; the beetle
+die Fliege; the fly
+die Tiere; the animals
+die Katzen; the cats
+die Hunde; the dogs
+die Fische; the fish
+die Tomaten; the tomatoes
+die Zeitungen; the newspapers
+die Menschen; the people
+die Mädchen; the girls
+das Insekt; the insect
+die Orangen; the oranges
+die Äpfel; the apples
+die Kartoffeln; the potatoes
+die Eier; the eggs
+die Kühe; the cows
+die Schweine; the pigs
+die Vögel; the birds
+die Bären; the bears
+die Enten; the ducks
+die Mäuse; the mice
+perfekt; perfect
+schlecht; bad
+frei; free
+normal; normal
+toll; great
+leicht; light
+laut; loud
+leise; quiet
+lang; long
+schwach; weak
+klar; clear
+klein; small
+rund; round
+groß; big
+ruhig; quiet
+nicht; not
+stark; strongly
+traurig; sad
+gesund; healthy
+einfach; easy
+lustig; funny
+fertig; done
+neu; new
+schnell; fast
+langsam; slowly
+schön; beautiful
+wichtig; important
+teuer; expensive
+weit; far
+müde; tired
+kalt; cold
+schwer; heavy
+richtig; correct
+alt; old
+jung; young
+schmutzig; dirty
+sauber; clean
+hoch; high
+tief; deep
+warm; warm
+wollen; to want
+machen; to do
+spielen; to play
+laufen; to run
+gehen; to walk
+schlafen; to sleep
+mögen; to like
+lernen; to learn
+schreiben; to write
+sehen; to see
+hören; to hear
+kennen; to know
+bringen; to bring
+fahren; to drive
+rennen; to run
+denken; to think
+schwimmen; to swim
+beginnen; to begin
+bezahlen; to pay
+waschen; to wash
+brauchen; to need
+tragen; to carry
+das Kleid; the dress
+der Rock; the skirt
+der Hut; the hat
+der Schuh; the shoe
+die Kleidung; the clothes
+die Hose; the pants
+das Hemd; the shirt
+die Jacke; the jacket
+die Tasche; the bag
+der Knopf; the button
+der Schmuck; the jewelry
+der Ring; the ring
+passen; to fit
+die Natur; the nature
+die Erde; the earth
+der Berg; the mountain
+der Baum; the tree
+der Wind; the wind
+das Feuer; the fire
+die Blume; the flower
+die Luft; the air
+das Meer; the sea
+der Mond; the moon
+der Himmel; the sky
+die Sonne; the Sun
+der Stern; the star
+fallen; to fall
+leben; to live
+mein; my
+meine; my
+dein; your
+deine; yours
+unser; our
+euer; your
+beide; both
+viele; many
+alle; all
+alles; everything
+niemand; no one
+jemand; someone
+etwas; something
+ein paar; a few
+keine; none
+niemals; never
+nichts; nothing
+auch; also
+so; so
+gerne; gladly
+wirklich; really
+noch; still
+nur; just
+schon; already
+immer; always
+zusammen; together
+vielleicht; maybe
+wieder; again
+alleine; alone
+das Gebäude; the building
+das Haus; the House
+der Markt; the market
+die Schule; the school
+der Garten; the garden
+die Ecke; the corner
+der Bahnhof; the train station
+das Restaurant; the restaurant
+die Bibliothek; the library
+die Bank; the bank
+das Hotel; the hotel
+die Straße; the road
+bauen; to build
+das Land; the country
+die Stadt; the city
+das Dorf; the village
+die Brücke; the bridge
+der Park; the park
+das Zimmer; the room
+das Fahrzeug; the vehicle
+das Flugzeug; the airplane
+das Werkzeug; the tool
+das Spielzeug; the toy
+mich; me
+dich; you
+ihn; him
+uns; us
+euch; you
+öffnen; to open
+die Wand; the wall
+das Fenster; the window
+die Tür; the door
+der Zaun; the fence
+die Treppe; the stairway
+die Wohnung; the apartment
+das Dach; the roof
+der Balkon; the balcony
+der Keller; the basement
+der Schlüssel; the key
+die Küche; the kitchen
+das Wohnzimmer; the living room
+der Tisch; the table
+der Stuhl; the chair
+der Schrank; the cabinet
+das Sofa; the sofa
+die Möbel; the furniture
+der Schlaf; the sleep
+das Bett; the bed
+der Teppich; the carpet
+die Lampe; the lamp
+das Licht; the light
+die Steckdose; the socket
+entweder; either
+oder; or
+aber; but
+denn; because
+wenn; if
+weil; because
+dass; that
+da; there
+obwohl; although
+die Person; the person
+der Freund; the friend
+der Name; the name
+der Vorname; the first name
+der Mensch; the human
+die Leute; the people
+der Herr; the gentleman
+die Dame; the lady
+der Bürger; the citizen
+das Publikum; the audience
+die Gruppe; the group
+der Gast; the guest
+der Vegetarier; the vegetarian
+der Gegner; the opponent
+das Mitglied; the member
+der Anfänger; the Beginner
+der Besucher; the guest
+der Feind; the enemy
+der Nachbar; the neighbor
+was; what
+wo; where
+wann; when
+warum; why
+wofür; for what
+wer; who
+wie; like
+worüber; about what
+wie viele; how many
+wie viel; how much
+die Frage; the question
+die Antwort; the answer
+wir antworten; we answer
+die Mutter; the mother
+der Vater; the father
+die Schwester; the sister
+der Bruder; the brother
+die Tochter; the daughter
+der Sohn; the son
+die Familie; the family
+die Eltern; the parents
+die Geschwister; the siblings
+der Partner; the partner
+die Beziehung; the relationship
+die Großeltern; the grandparents
+der Großvater; the grandfather
+die Großmutter; the grandmother
+der Enkel; the grandson
+die Enkelin; the granddaughter
+die Oma; the grandmother
+der Opa; the grandfather
+ohne; without
+gegen; against
+durch; through
+für; for
+entlang; along
+es gibt; there are
+eins; one
+zwei; two
+drei; three
+vier; four
+fünf; five
+sechs; six
+sieben; seven
+acht; eight
+neun; nine
+zehn; ten
+elf; eleven
+zwölf; twelve
+dreizehn; thirteen
+vierzehn; fourteen
+fünfzehn; fifteen
+sechzehn; sixteen
+siebzehn; seventeen
+achtzehn; eighteen
+neunzehn; nineteen
+die Zahl; the number
+zählen; to count
+die Summe; the sum
+die Hälfte; the half
+das Dutzend; the dozen
+die Telefon; the phone
+das Frühstück; the breakfast
+wir frühstücken; we eat breakfast
+die Butter; the butter
+die Marmelade; the jam
+das Müsli; the cereal
+die Nuss; the nut
+der Honig; the honey
+das Mittagessen; thelunch
+salzig; salty
+das Rezept; the recipe
+die Tomate; the tomato
+der Pilz; the mushroom
+das Hähnchen; the chicken
+ich koche; I cook
+die Zitrone; the lemon
+das Getränk; the drink
+die Speisekarte; the menu
+die Vorspeise; the appetizer
+der Salat; the salad
+der Knoblauch; the garlic
+die Zwiebel; the onion
+der Senf; the mustard
+der Nachtisch; the dessert
+das Abendessen; the dinner
+der Löffel; the spoon
+die Gabel; the fork
+das Messer; the knife
+geben; to give
+zeigen; to show
+sagen; to say
+das Geld; the money
+kosten; to cost
+der Euro; the Euro
+der Cent; the cent
+kaufen; to buy
+der Preis; the price
+gewinnen; to win
+der Dollar; the dollar
+reich; rich
+besitzen; to have
+mir; me
+dir; you
+ihm; him
+das Trinkgeld; the tip
+helfen; to help
+danken; to thank
+gehören; to belong
+ihnen; them
+folgen; to follow
+die Tante; the aunt
+der Onkel; the uncle
+die Nichte; the niece
+der Neffe; the nephew
+der Cousin; the cousin
+die Cousine; the cousin
+der Zwilling; the twin
+der Urenkel; the great-grandson
+die Partnerschaft; the partnership
+die Hochzeit; the wedding
+schwanger; pregnant
+der Halbbruder; the half-brother
+die Halbschwester; the half-sister
+verheiratet; married
+seit; since
+von; from
+mit; with
+nach; after
+der Körper; the body
+der Kopf; the head
+das Haar; the hair
+das Auge; the eye
+das Ohr; the ear
+die Nase; the nose
+der Mund; the mouth
+der Zahn; the tooth
+der Hals; the neck
+der Arm; the arm
+die Hand; the hand
+der Finger; the finger
+die Schulter; the shoulder
+der Rücken; the back
+die Brust; the chest
+der Magen; the stomach
+das Herz; the heart
+das Bein; the leg
+die Haut; the skin
+der Fuß; the foot
+das Blut; the blood
+das Gesicht; the face
+Österreich; Austria
+das Auto; the car
+Wien; Vienna
+der Zug; the train
+der Bus; the bus
+der Urlaub; the vacation
+der Pass; the passport
+Bayern; Bavaria
+Afrika; Africa
+die Sehenswürdigkeit; the point of interest
+die Reise; the trip
+der Zoll; the toll
+das Boot; the boat
+Frankreich; France
+Großbritannien; Great Britain
+der Stadt; the City
+der Tourismus; the tourism
+der Weg; the way
+der Flug; the flight
+das Motorrad; the motorcycle
+Schweiz; Switzerland
+Spanien; Spain
+das Abenteuer; the adventure
+die Miete; the Rent
+die Strecke; the route
+der Verkehr; the traffic
+die Fahrt; the drive
+Italien; Italy
+die Bahn; the train
+die Ferien; the vacation
+der Besuch; the visit
+die Tour; the trip
+wandern; to hike
+Schweden; Sweden
+die Bus; the bus
+fliegen; to fly
+der Reiseführer; the travel guide
+die Fähre; the ferry
+die Verspätung; the delay
+buchen; to book
+irgendwie; somehow
+irgendwann; sometime
+einkaufen; shop
+die Bäckerei; the bakery
+der Laden; the load
+das Geschäft; the store
+verkaufen; to sell
+der Kunde; the customer
+der Supermarkt; the supermarket
+der Einkauf; the purchase
+die Kasse; the cash register
+die Tüte; the bag
+der Gutschein; the coupon
+einkaufen; shopping
+die Apotheke; the pharmacy
+billig; cheap
+gratis; free
+zwanzig; twenty
+dreißig; thirty
+vierzig; forty
+fünfzig; fifty
+sechzig; sixty
+siebzig; seventy
+achtzig; eighty
+neunzig; ninety
+einundzwanzig; twenty-one
+dreiundzwanzig; twentythree
+zweiunddreißig; thirty-two
+vierundzwanzig; twenty four
+zweiundvierzig; forty-two
+achtundzwanzig; twenty eight
+zweiundachtzig; eighty-two
+hundert; hundred
+tausend; thousand
+hundertdreiundzwanzig; one hundred twenty three
+der Meter; the meter
+das Prozent; the percent
+der Liter; the liter
+die Milliarde; the billion
+die Million; the million
+die Farbe; the color
+rot; red
+grün; green
+blau; blue
+gelb; yellow
+schwarz; black
+weiß; white
+rote; red
+braun; brown
+grau; gray
+bunt; colorful
+pink; rosa
+der Beruf; the profession
+der Arzt; the doctor
+die Ärztin; the doctor
+der Bäcker; the baker
+die Bäckerin; the Baker
+der Koch; the cook
+die Köchin; the cook
+der Student; the college student
+der Lehrer; the teacher
+die Lehrerin; the teacher
+die Studentin; the student
+die Schülerin; the pupil
+der Schüler; the pupil
+die Professorin; the professor
+der Professor; the professor
+der Arbeitgeber; the employer
+der Mitarbeiter; the employee
+die Arbeit; the work
+der Bürgermeister; the mayor
+der Senior; the senior
+der Autor; the author
+der Trainer; the trainer
+der Chef; the boss
+die Chefin; the boss
+der Architekt; the architect
+der Verkäufer; the seller
+die Bedienung; the service
+der Fahrer; the driver
+die Feuerwehr; the fire department
+der Bauer; the farmer
+sitzen; to sit
+in; in
+unter; under
+zwischen; in between
+hinter; behind
+neben; next to
+während; while
+am; at the
+an; to
+wegen; because of
+einschließlich; including
+außer; except
+plastik; plastic
+das Glas; the glass
+der Sand; the sand
+der Stein; the stone
+die Wolle; the wool
+der Beton; the concrete
+die Pappe; the cardboard
+das Papier; the paper
+das Leder; the leather
+das Holz; the wood
+die Baumwolle; the cotton
+das Metall; the metal
+das Gold; the gold
+das Silber; the silver
+das Kupfer; the copper
+der Stahl; the steel
+die Mauer; the Wall
+erste; first
+dritte; third
+zweite; second
+vierte; fourth
+fünfte; fifth
+sechste; sixth
+ähnlich; similar
+Mathematik; mathematics
+größer; bigger
+die Größe; the size
+langsamer; slower
+schöner; prettier
+leichter; easier
+wichtiger; more important
+höher; higher
+kleiner; smaller
+besser; better
+länger; longer
+stärker; stronger
+sehr; very
+ziemlich; quite
+super; great
+eher; rather
+normalerweise; usually
+der Haushalt; the household
+die Heizung; the heating
+die Reinigung; the cleaning
+der Umzug; the move
+das Gerät; the device
+der Schlaf; the sleep
+die Zahnpasta; the toothpaste
+der Raum; the room
+die Leiter; the ladder
+die Batterie; the battery
+voll; full
+leer; empty
+die Toilette; the toilet
+die Tasse; the cup
+das Tor; the gate
+die Schüssel; the bowl
+der Teller; the plate
+der Kühlschrank; the refridgerator
+der Karton; the box
+der Rucksack; the backpack
+die Flasche; the bottle
+der Rasierer; the razor
+das Bad; the bathroom
+die Seife; the soap
+der Spiegel; the mirror
+das Handtuch; the towel
+die Dusche; the shower
+der Tag; the day
+Montag; Monday
+Dienstag; Tuesday
+Mittwoch; Wednesday
+Donnerstag; Thursday
+Freitag; Friday
+die Woche; the week
+wöchentlich; weekly
+das Wochenende; the weekend
+Samstag; Saturday
+Sonntag; Sunday
+bis; until
+die Zukunft; the future
+täglich; daily
+die Vergangenheit; the past
+der Anfang; the beginning
+das Ende; the end
+bald; soon
+danach; after that
+spätestens; no later than
+endlich; finally
+inzwischen; meanwhile
+fit; fit
+regional; regional
+plötzlich; suddenly
+automatisch; automatically
+hilfreich; helpful
+aktiv; active
+relativ; relative
+allgemein; general
+extrem; extreme
+tatsächlich; indeed
+original; original
+seltsam; strange
+wert; value
+falsch; not correct
+beliebt; popular
+echt; real
+privat; private
+sinnvoll; meaningful
+verantwortlich; responsible
+bereit; ready
+egal; irrelevant
+offen; open
+ausgezeichnet; excellent
+komisch; funny
+weich; soft
+hart; hard
+kaputt; broken
+hier; here
+dort; there
+oben; up
+unten; down
+vorne; in front
+hinter; behind
+neben; next to
+drinnen; indoors
+draußen; outdoors
+innen; inside
+außen; outside
+überall; everywhere
+notwendig; necessary
+selbstverständlich; of course
+eindeutig; clearly
+begeistert; excited
+verfügbar; available
+zufrieden; satisfied
+sichtbar; visible
+unsichtbar; invisible
+abhängig; dependent
+unabhängig; independent
+bekannt; known
+unbekannt; unknown
+nützlich; useful
+unmöglich; impossible
+möglich; possible
+praktisch; practically
+persönlich; personally
+positiv; positive
+individuell; individually
+international; international
+kostenlos; free
+wahrscheinlich; probably
+deutlich; clearly
+wohnen; to live
+der Ort; the place
+die Kneipe; the pub
+der Platz; the place
+die Pension; the pension
+die Unterkunft; the accommodation
+der Bereich; the area
+der Flughafen; the airport
+das Bundesland; the federal state
+die Region; the region
+der Bezirk; the district
+gegenüber; opposite
+der Grund; the reason
+das Grundstück; the property
+die Zentrale; the headquarters
+das Zentrum; the center
+die Halle; the hall
+die Fläche; the area
+die Innenstadt; the downtown
+das Innere; the inside
+die Umgebung; the surroundings
+Ausland; foreign countries
+Europa; Europe
+die Ferien; the vacation
+die Heimat; the homeland
+die Insel; the island
+die Hauptstadt; the capital
+krank; sick
+der Patient; the patient
+das Medikament; the medicine
+das Pflaster; the bandaid
+bluten; to bleed
+der Rollstuhl; the wheelchair
+die Praxis; the practice
+die Gesundheit; the health
+die Untersuchung; the examination
+das Formular; the form
+die Krankheit; the disease
+die Medizin; the medicine
+das Krankenhaus; the hospital
+die Versicherung; the insurance
+der Unfall; the accident
+der Notfall; the emergency
+das Opfer; the Victim
+die Klinik; the clinic
+die Therapie; the therapy
+der Alkohol; the alcohol
+die Diät; the diet
+die Ernährung; the nutrition
+arbeiten; to work
+sammeln; to collect
+singen; to sing
+hoffen; to hope
+wissen; to know
+suchen; to search
+passieren; to happen
+finden; to find
+ändern; to change
+erlauben; to allow
+können; can
+treffen; to meet
+glauben; to believe
+benutzen; to use
+warten; to wait
+liegen; to lie
+stehen; to stand
+ersetzen; to replace
+nehmen; to take
+schließen; to close
+bestellen; to order
+funktionieren; to function
+erkennen; to recognize
+prüfen; to check
+halten; to hold
+abonnieren; to subscribe to
+spazieren; to walk
+bleiben; to stay
+schauen; to watch
+fehlen; to be missing
+stehlen; to steal
+akzeptieren; to accept
+verpassen; to miss
+der Monat; the month
+monatlich; monthly
+der Frühling; the spring
+März; March
+April; April
+Mai; May
+der Spargel; the asparagus
+das Jahr; the year
+jährlich; yearly
+das Quartal; the quarter
+der Sommer; the summer
+Juni; June
+Juli; July
+August; August
+heiß; hot
+das Datum; the date
+der Kalender; the calendar
+die Jahreszeit; the season
+Herbst; the autumn
+September; September
+Oktober; October
+November; November
+kühl; cool
+Winter; winter
+die Saison; the season
+Weihnachten; Christmas
+Dezember; December
+Februar; February
+Januar; January
+der Schluss; the conclusion
+das Alter; the age
+der Geburtstag; the birthday
+die Phase; the phase
+das Jahrhundert; the century
+enden; to end
+vorbei; over
+die Gemeinde; the community
+der Verein; the club
+die Öffentlichkeit; the public
+die Verbindung; the connection
+das Verhältnis; the relationship
+der Nutzer; the user
+die Bevölkerung; the population
+die Jugend; the youth
+die Mitgliedschaft; the membership
+der Einwohner; the resident
+das Paar; the pair
+besuchen; to visit
+werden; to become
+reden; to talk
+vergessen; to forget
+lieben; to love
+testen; to test
+rufen; to call
+lösen; to solve
+handeln; to act
+beraten; to advise
+schützen; to protect
+bieten; to offer
+merken; to notice
+erklären; to explain
+die Liebe; the love
+der Traum; the dream
+träumen; to dream
+die Lust; the lust
+die Not; the distress
+die Freude; the pleasure
+der Wunsch; the wish
+das Verständnis; the understanding
+der Spaß; the fun
+der Ernst; the seriousness
+der Humor; the humor
+die Angst; the anxiety
+der Eindruck; the impression
+unheimlich; scary
+der Gedanke; the thought
+die Ruhe; the calm
+der Witz; the joke
+hassen; to hate
+interessant; interesting
+langweilig; boring
+der Ärger; the trouble
+lieber; Dear
+ehrlich; honest
+witzig; funny
+dumm; stupid
+schlau; clever
+stolz; proud
+total; total
+nett; nice
+tapfer; brave
+die Schuld; the fault
+lachen; to laugh
+schlimm; bad
+das Glück; the luck
+der Termin; the appointment
+der Moment; the moment
+dann; then
+jetzt; now
+heute; today
+gestern; yesterday
+morgen; tomorrow
+der Morgen; the morning
+der Nachmittag; the afternoon
+der Abend; the evening
+die Nacht; the night
+früh; early
+spät; late
+der Zeitraum; the timeframe
+der Augenblick; the moment
+die Uhr; the clock
+die Zeit; the time
+die Stunde; the hour
+die Minute; the minute
+später; later
+die Sekunde; the second
+dauern; to last
+halb; half
+viertel; quarter
+nachts; at night
+sofort; immediately
+etwa; about
+fast; almost
+gerade; just
+die Dauer; the duration
+damals; at that time
+lange; for a long time
+mehr; more
+oft; often
+als; when
+manchmal; sometimes
+wenig; little
+weniger; fewer
+zahlreich; numerous
+häufig; frequently
+das Mal; the time
+selten; rarely
+ob; if
+meist; mostly
+keinerlei; no
+je; ever
+müssen; to have to
+sollen; should
+dürfen; to be allowed to
+bestätigen; to confirm
+wiederholen; to repeat
+mieten; to rent
+wecken; to wake up
+entscheiden; to decide
+aussagen; to testify
+registrieren; to register
+teilnehmen; to take part
+mitmachen; to join in
+tun; to do
+fragen; to ask
+betrachten; to consider
+vorstellen; to imagine
+wünschen; to wish
+weder noch; neither
+bereits; already
+damit; in order to
+darüber; about that
+allein; alone
+nun; now
+zuerst; first
+zuletzt; last
+genauso; just as
+daher; therefore
+sonst; otherwise
+einmal; once
+jedenfalls; anyway
+völlig; completely
+durchaus; thoroughly
+mindestens; at least
+meistens; mostly
+außerdem; also
+besonders; especially
+kaum; barely
+überhaupt; at all
+jedoch; however
+erneut; again
+die Wiese; the meadow
+der Strand; the beach
+die Umwelt; the environment
+der Bernstein; the amber
+die Welt; the world
+die Tier; the animal
+der See; the lake
+das Gras; the grass
+die Welle; the wave
+der Rhein; the Rhine
+das All; space
+der Wald; the forest
+der Fluss; the flow
+der Bach; the stream
+die Pflanze; the plant
+das Klima; the climate
+der Strom; the electricity
+die Landwirtschaft; the agriculture
+die Wüste; the desert
+des; of
+eines; of a
+der Verfasser; the author
+der Betreiber; the operator
+der Entwickler; the developer
+das Personal; the staff
+der Empfänger; the receiver
+der Teilnehmer; the subscriber
+die Werkstatt; the workshop
+der Schneider; the cutter
+der Hersteller; the manufacturer
+der Richter; thejudge
+die Spezialität; the specialty
+der Experte; the expert
+die Richterin; thejudge
+rechts; right
+gegessen; eaten
+gesehen; seen
+gelernt; learned
+gelesen; read
+geschlafen; slept
+gespielt; played
+behalten; keep
+erfahren; to experience
+veröffentlicht; released
+verbessert; improved
+besucht; visited
+gegeben; given
+geschrieben; written
+geschwommen; swum
+gelaufen; run
+gekommen; come
+geworden; become
+gefragt; asked
+gestohlen; stolen
+interessiert; interested
+informiert; informed
+verletzt; injured
+gegangen; gone
+erzählt; told
+gerannt; run
+gewesen; been
+getrunken; drunk
+gehabt; had
+gekocht; cooked
+gesprochen; spoken
+gemacht; made
+gesucht; searched
+gefunden; found
+gesagt; said
+gemocht; liked
+verkauft; sold
+bestellt; ordered
+geladen; loaded
+geschehen; occured
+größten; largest
+öffentlich; public
+neu; new
+letzter; last
+besonders; special
+eigener; own
+höher; higher
+aktuelle; current
+international; international
+hoch; high
+übrigen; remaining
+öffentlichen; public
+einzelnen; individual
+jugendlich; teenage
+zusätzliche; additional
+alt; old
+internationale; international
+notwendigen; necessary
+nächster; next
+links; left
+wichtigsten; main
+Höhe; height
+normal; normal
+richtig; right
+private; private
+zufällig; random
+besonderen; special
+passend; fitting
+weiter; further
+interessante; interesting
+wichtig; important
+deutsch; German
+nächster; next
+detailliert; detailed
+verschieden; different
+verfügbar; available
+ganz; all
+zuständig; competent
+stark; strong
+offen; open
+modern; modern
+eigene; own
+persönlichen; personal
+technischen; technical
+weitere; more
+vergangenen; past
+einzige; only one
+wichtige; important
+eigenen; own
+gleiche; same
+kostenlose; free
+zweiten; second
+alten; old
+privaten; private
+gesamten; overall
+bekannten; known
+schenken; to give
+heutigen; today's
+rechts; right
+links; left
+die Richtung; the direction
+der Norden; the north
+der Süden; the south
+der Osten; the east
+der Westen; the west
+woher; from where
+zurück; back
+voraus; ahead
+weg; away
+unterwegs; on the road
+die Stärke; the strength
+unterschiedlich; different
+höchste; highest
+externe; external
+möglichen; potential
+persönliche; personal
+gelb; yellow
+offene; open
+freien; free
+letzten; last
+politisch; political
+individuellen; custom
+sozial; social
+eigenes; own
+schön; nice
+aktiv; active
+schönen; beautiful
+öffentliches; public
+einfache; easy
+neuesten; latest
+ehemalige; former
+günstige; cheap
+einfach; easy
+zusätzlich; additional
+ähnlich; similar
+nächste; next
+gleichen; same
+englisch; English
+ansonsten; otherwise
+dafür; for this
+eigentlich; actually
+natürlich; naturally
+soweit; so far
+übrigens; incidentally
+also; so
+trotzdem; nevertheless
+allerdings; however
+darum; therefore
+sogar; even
+wenigstens; at least
+anders; different
+zugleich; at the same time
+deshalb; therefore
+bisher; so far
+dadurch; thereby
+herzlich; warmly
+zuvor; before
+vorher; before
+bevor; before
+erhalten; receive
+führen; to lead
+lassen; to leave
+brennen; to burn
+verlieren; to lose
+der Regen; the rain
+das Wetter; the Weather
+der Grad; the Degree
+scheint; seems
+der Schnee; the snow
+schneit; snowing
+der Sturm; the storm
+regnet; raining
+nass; wet
+trocken; dry
+der Regenbogen; the rainbow
+das Gewitter; the thunderstorm
+die Wolke; the cloud
+der Donner; the thunder
+der Blitz; the lightning
+der Plan; the plan
+das Büro; the office
+das Produkt; the product
+die Schere; the scissors
+die Sache; the thing
+der Katalog; the catalog
+der Boden; the ground
+das Zubehör; the accessories
+das Stück; the piece
+das Paket; the package
+das Geschenk; the gift
+die Kommunikation; the communication
+das Telefon; the phone
+das Handy; the mobile
+die Vorwahl; the area code
+das Gespräch; the conversation
+die Information; the information
+der Computer; the computer
+der Monitor; the monitor
+die Festplatte; the harddrive
+die Tastatur; the keyboard
+das Kabel; the cable
+starten; to start
+die Nachricht; the message
+der Artikel; the item
+das Interview; the interview
+die Zeitschrift; the magazine
+der Dialog; the dialog
+der Fernseher; the TV
+das Medium; the medium
+fernsehen; to watch TV
+die Sendung; the show
+die Rede; the speech
+die Diskussion; the discussion
+anbieten; to offer
+abbrechen; interrupt
+nachfragen; inquire
+aufgeben; give up
+vorschlagen; to suggest
+wenden; to turn
+beantworten; to answer
+benötigen; to need
+unterstützen; to support
+zitieren; to quote
+installieren; to install
+sparen; save up
+herunterladen; to download
+wechseln; to switch
+erwarten; to expect
+erwerben; to purchase
+erfolgen; to take place
+erscheinen; to appear
+teilen; to share
+verwenden; to use
+vergeben; to forgive
+verdienen; to earn
+verlassen; to leave
+sichern; to secure
+das Internet; the Internet
+die Seite; the page
+laden; to load
+die Suche; the search
+das Foto; the photo
+das Netz; the network
+schicken; to send
+geschickt; sent
+der Anhang; the appendix
+das Profil; the profile
+die Taste; the key
+drucken; to print
+aktualisieren; to update
+der Kommentar; the comment
+das Passwort; the password
+das Programm; the program
+das Bild; the image
+herunter; down
+geteilt; divided
+genannt; called
+geprüft; checked
+nachdem; after this
+der Leser; the reader
+die Universität; the university
+der Stift; the pen
+die Grund; the reason
+die Übung; the exercise
+die Note; the grade
+die Bildung; the education
+der Test; the test
+die Forschung; the research
+das Studium; the study
+die Klasse; the class
+der Kurs; the course
+das Seminar; the seminar
+studieren; to study
+die Ausbildung; the education
+das Training; the training
+das Institut; the institute
+der Unterricht; the lesson
+die Akademie; the academy
+die Erziehung; the education
+die Uni; the University
+die Weiterbildung; the further education
+die Prüfung; the exam
+der Kindergarten; the kindergarten
+der Fachbereich; the subject area
+überlegen; to consider
+geschlossen; closed
+gekauft; bought
+die Verzeihung; the forgiveness
+naja; well
+die Wissenschaft; the science
+die Definition; the definition
+die Erfindung; the invention
+die Technologie; the technology
+die Theorie; the theory
+die Kenntnis; the knowledge
+die Physik; physics
+die Energie; the energy
+die Temperatur; the temperature
+die Strahlung; the radiation
+Achtung; warning
+der Motor; the motor
+messen; to measure
+das Wissen; the knowledge
+Technik; technology
+Statistik; statistics
+die Studie; the study
+die Maschine; the machine
+die Methode; the method
+Biologie; biology
+der Wissenschaftler; the scientist
+die Wissenschaftlerin; the scientist
+das Praktikum; the internship
+das Gas; the gas
+Chemie; chemistry
+der Kunststoff; the plastic
+die Analyse; the analysis
+der Nachweis; the proof
+die Atmosphäre; the atmosphere
+sich; themselves
+fühlen; to feel
+lohnen; to be worth
+ergeben; to yield
+interessieren; to interest
+melden; to report
+setzen; to sit
+sorgen; to care
+anschauen; look at
+holen; to get
+anmelden; to sign in
+verlaufen; lost
+erinnern; to recall
+die Post; the mail
+der Brief; the letter
+die Adresse; the address
+die Anrede; the salutation
+der Gruß; the greeting
+die Notiz; the note
+der Briefkasten; the mailbox
+senden; to send
+die Brief; the letter
+der Kontakt; the contact
+die Einladung; the invitation
+die Begründung; the reason
+das Thema; the topic
+die Bestätigung; the confirmation
+veröffentlichen; to publish
+der Verlag; the publishing company
+die Meldung; the message
+der Lautsprecher; the speaker
+das Radio; the radio
+der Sender; the channel
+das Tasche; the bag
+die Anmeldung; the registration
+die Mitteilung; the message
+die Organisation; the organization
+das Unternehmen; the company
+die Fabrik; the factory
+das Büro; the office
+der Inhaber; the owner
+die Bestellung; the order
+der Kollege; the colleague
+die Beratung; the consultation
+das Projekt; the project
+das Management; the management
+der Wettbewerb; the competition
+das Dokument; the document
+die Miete; the rent
+der Beitrag; the contribution
+der Wert; the value
+der Gewinn; the profit
+der Handel; the trade
+der Verbraucher; the consumer
+der Kauf; the purchase
+der Käufer; the buyer
+der Job; the job
+die Bewerbung; the application
+der Anzug; the suit
+die Karriere; the career
+klein; small
+großartig; great
+die Bedeutung; the meaning
+die Idee; the idea
+das Wort; the word
+die Beschreibung; the description
+die Schrift; the font
+die Sprache; the language
+die Geschichte; the story
+die Zustimmung; the approval
+der Text; the text
+erzählen; to tell
+der Bericht; the report
+der Titel; the title
+das Konzept; the concept
+die Meinung; the opinion
+die Erklärung; the explanation
+das Zeichen; the sign
+das Kapitel; the chapter
+das Verzeichnis; the directory
+der Satz; the sentence
+Französisch; French
+die Unterhaltung; the conversation
+die Zusammenfassung; the Summary
+der Begriff; the term
+die Übersetzung; the translation
+bedeuten; to mean
+das Problem; the problem
+das Ziel; the aim
+die Form; the form
+das Verhalten; the behavior
+die Lösung; the solution
+die Änderung; the change
+die Auswahl; the selection
+der Druck; the pressure
+die Empfehlung; the recommendation
+der Nutzen; the use
+die Lage; the location
+das Ding; the thing
+das Engagement; the engagement
+die Hilfe; the help
+die Kompetenz; the competence
+die Entwicklung; the development
+die Sicherheit; the safety
+das Ergebnis; the result
+der Versuch; the attempt
+die Qualität; the quality
+die Zusammenarbeit; the collaboration
+die Gelegenheit; the oportunity
+wertvoll; precious
+die Nähe; the proximity
+das Maß; the measurement
+beißen; to bite
+das Eichhörnchen; the squirrel
+der Fuchs; the fox
+die Gans; the goose
+das Schaf; the sheep
+die Eule; the owl
+der Schmetterling; the butterfly
+fangen; to catch
+der Zoo; the zoo
+der Pinguin; the penguin
+das Säugetier; the mammal
+der Elefant; the elephant
+das Kamel; the camel
+der Löwe; the lion
+reiten; to ride
+die Giraffe; the giraffe
+der Wal; the whale
+der Hamster; the hamster
+die Schildkröte; the turtle
+der Affe; the monkey
+verrückt; crazy
+das Zebra; the zebra
+die Wespe; the wasp
+stechen; to sting
+der Delfin; the dolphin
+das Huhn; the hen
+das Horn; the horn
+der Tiger; the tiger
+die Schlange; the Snake
+harmlos; harmless
+gefährlich; dangerous
+der Hai; the shark
+der Wolf; the wolf
+springen; to jump
+berichten; to report
+bitten; to asking for
+erreichen; to accomplish
+bewerten; to evaluate
+präsentieren; to present
+dienen; to serve
+kontaktieren; to contact
+markieren; to mark
+erleben; to experience
+ermitteln; to determine
+erhöhen; to increase
+ermöglichen; to enable
+berechnen; to calculate
+bewegen; to move
+nennen; to name
+entwickeln; to develop
+treten; to step
+fördern; to promote
+verhindern; to prevent
+vermeiden; to avoid
+verändern; to change
+vergleichen; to compare
+betreffen; to affect
+nutzen; to use
+definieren; to define
+das Gehirn; the brain
+die Stirn; the forehead
+die Lippe; the lip
+die Zunge; the tongue
+das Kinn; the chin
+die Lunge; the lung
+der Bauch; the belly
+der Daumen; the thumb
+der Brust; the chest
+dick; fat
+dünn; thin
+die Ferse; the heel
+der Ellbogen; the elbow
+der Knöchel; the ankle
+die Hüfte; the hip
+der Zeh; the toe
+das Knie; the knee
+der Oberschenkel; the thigh
+die Leber; the liver
+der Knochen; the bone
+der Muskel; the muscle
+der Darm; the intestine
+das Organ; the organ
+diskutieren; to discuss
+vergrößern; enlarge
+beachten; to pay attention to
+zahlen; to pay
+anfragen; to inquire
+das Leben; the life
+das Gefühl; the feeling
+der Sinn; the meaning
+die Spiritualität; the spirituality
+die Seele; the soul
+das Wunder; the miracle
+die Hoffnung; the hope
+der Geist; the spirit
+das Schicksal; the fate
+meditieren; to meditate
+wunderschön; very beautiful
+glücklich; happy
+wunderbar; wonderful
+das Gleichgewicht; the balance
+die Wahrheit; the truth
+falls; if
+anfangen; start
+plus; plus
+gleich; equal
+minus; minus
+die Zahlung; the payment
+die Zinsen; the interest
+die Münze; the coin
+der Betrag; the amount
+die Rechnung; the bill
+die Finanzierung; the financing
+die Kredit; the credit
+das Konto; the account
+die Frist; the deadline
+die Planung; the planning
+die Erfahrung; the experience
+die Version; the version
+die Verbesserung; the improvement
+die Basis; the base
+der Unterschied; the difference
+die Kategorie; the category
+die Kraft; the force
+die Unterstützung; the support
+die Liste; the list
+die Menge; the amount
+die Eigenschaft; the characteristic
+das Original; the original
+die Länge; the length
+der Zugang; the access
+die Position; the position
+der Vorschlag; the suggestion
+die Höhe; the height
+das Element; the element
+die Spalte; the column
+die Rolle; the role
+die Einführung; the introduction
+die Verwendung; the usage
+der Hintergrund; the background
+die Anleitung; the instructions
+das Feld; the field
+die Referenz; the reference
+die Stufe; the step
+das Gewicht; the weight
+die Party; the party
+die Einzelheit; the detail
+die Wirkung; the effect
+der Überblick; the overview
+der Blick; the view
+die Kombination; the combination
+der Zustand; the state
+der Kreis; the circle
+die Umsetzung; the implementation
+die Firma; the company
+die Lieferung; the delivery
+die Versicherung; the insurance
+der Verkauf; the sale
+die Ware; the ware
+die Tabelle; the table
+die Industrie; the industry
+der Auftrag; the assignment
+die Chance; the chance
+die Anzeige; the advertisement
+die Garantie; the guarantee
+das Angebot; the offer
+der Antrag; the application
+das Lager; the warehouse
+die Bewertung; the rating
+die Bezahlung; the payment
+der Service; the service
+die Werbung; the advertising
+die Marke; the brand
+die Leistung; the performance
+die Produktion; the production
+die Gründung; the establishment
+die Ausgabe; the output
+das Stelle; the position
+die Börse; the exchange
+die Branche; the sector
+die Logistik; the logistics
+der Bedarf; the need
+die Dienstleistung; the service
+verhandeln; to negotiate
+verbessern; to improve
+festlegen; to establish
+auswählen; to choose
+leisten; to afford
+ansehen; to look at
+erfüllen; to fulfill
+entfernen; to remove
+telefonieren; to phone
+informieren; to inform
+Fußball; Soccer
+das Schwimmbad; the swimming pool
+das Fahrrad; the bicycle
+der Ball; the ball
+die Aktivität; the activity
+die Bundesliga; the national league
+der Zuschauer; the spectators
+der Sport; the Sport
+Tennis; tennis
+der Sieg; the victory
+die Liga; the league
+das Team; the team
+der Ski; the ski
+die Teilnahme; the participation
+die Bewegung; the move
+die Freizeit; the leisure time
+das Spiel; the game
+das Hobby; the hobby
+der Spieler; the player
+die Mannschaft; the team
+gedacht; thought
+verstanden; understood
+passiert; happened
+geführt; led
+akzeptiert; accepted
+gegründet; founded
+gebracht; brought
+gewusst; known
+verschwunden; missing
+gewählt; chosen
+gewollt; wanted
+die Gitarre; the guitar
+die Ausstellung; the exhibition
+die Galerie; the gallery
+das Studio; the studio
+der Musiker; the musician
+die Kunst; the art
+das Instrument; the instrument
+das Theater; the theater
+die Kultur; the culture
+der Künstler; the artist
+malen; to paint
+die Musik; the music
+tanzen; to dance
+der Start; the start
+das Musikinstrument; the musical instrument
+der Film; the movie
+das Modell; the model
+der Entwurf; the blueprint
+die Fotografie; the photography
+die Sammlung; the collection
+das Design; the design
+die Kritik; the criticism
+die Literatur; the literature
+das Lied; the song
+das Museum; the museum
+der Jazz; the jazz
+die Bühne; the stage
+der Tanz; the dance
+die Mode; the fashion
+der Stil; the style
+das Konzert; the concert
+der Rahmen; the frame
+die Kamera; the camera
+das Kino; the movie theater
+die Dokumentation; the documentation
+die Tätigkeit; the activity
+der Schauspieler; the actor
+berücksichtigt; considered
+geboren; born
+bewertet; evaluated
+genutzt; used
+geändert; changed
+gewährleistet; guaranteed
+bevorzugt; prefered
+die Religion; the religion
+der Gott; the God
+der Tod; the death
+der Glaube; the faith
+der Priester; the priest
+beten; to pray
+christlich; Christian
+islamic; Islamisch
+heilig; holy
+atheistic; atheistisch
+das Paradies; the paradise
+muslim; muslimisch
+das Gebet; the prayer
+die Wiedergeburt; the reincarnation
+Buddhismus; Buddhism
+Hinduismus; Hinduism
+jüdisch; Jewish
+der Tempel; the temple
+die Moschee; the mosque
+der Mönch; the monk
+die Kirche; the church
+die Synagoge; the synagogue
+der Präsident; the president
+die Partei; the party
+der Frieden; the peace
+die Politik; the politics
+die Stimme; the voice
+die Macht; the power
+der Erfolg; the success
+der Vertrag; the contract
+das Interesse; the interest
+der Politiker; the politician
+die Politikerin; the politician
+die Republik; the republic
+das Volk; the people
+der König; the king
+die Behörde; the authority
+das Gesetz; the law
+die Verwaltung; the administration
+der Staat; the state
+die Wahl; the choice
+die Königin; the queen
+die Regierung; the government
+das Ministerium; the ministry
+das Recht; the right
+der Krieg; the war
+der Kampf; the struggle
+die Genehmigung; the approval
+die Vorschrift; the regulation
+der Prinz; the prince
+die Prinzessin; the princess
+wählen; to choose
+das Rathaus; the town hall
+die Regel; the rule
+der Einfluss; the influence
+die Kontrolle; the control
+der Schaden; the damage
+der Prozess; the process
+die Bedingung; the condition
+die Entscheidung; the decision
+das Verfahren; the process
+biegen; to bend
+soeben; just
+ebenfalls; also
+schließlich; after all
+jederzeit; any time
+dennoch; still
+deswegen; therefore
+mittlerweile; meanwhile
+hingegen; however
+nochmals; again
+weiterhin; furthermore
+derzeit; at present
+hiermit; hereby
+insbesondere; especially
+die Anwendung; the usage
+die Rubrik; the category
+der Vergleich; the comparison
+die Förderung; the promotion
+die Anlage; the investment
+das System; the system
+das Kriterium; the criteria
+das Beispiel; the example
+der Verlust; the loss
+der Inhalt; the content
+die Eröffnung; the opening
+der Abschnitt; the section
+der Eintritt; the entry
+der Durchschnitt; the average
+die Reparatur; the repair
+der Anteil; the share
+die Auflage; the edition
+das Ereignis; the event
+der Rest; the rest
+die Geschwindigkeit; the speed
+die Versorgung; the supply
+die Verpflichtung; the obligation
+die Tradition; the tradition
+die Agentur; the agency
+das Niveau; the level
+die Oberfläche; the surface
+der Umfang; the circumference
+die Vorstellung; the idea
+der Charakter; the character
+der Vortrag; the lecture
+die Gewalt; the violence
+der Bezug; the reference
+die Qualifikation; the qualification
+die Gefahr; the danger
+das Material; the material
+die Runde; the round
+der Umgang; the handling
+die Einstellung; the setting
+der Empfang; the reception
+der Ansatz; the approach
+der Eingang; the entrance
+der Abschluss; the graduation
+die Kooperation; the cooperation
+die Schau; the show
+das Symbol; the symbol
+die Karte; the map
+die Vermittlung; the mediation
+der Fall; the case
+darstellen; to represent
+vorsichtig; careful
+die Philosophie; the philosophy
+der Optimist; the optimist
+der Pessimist; the pessimist
+skeptisch; skeptical
+das Bewusstsein; the awareness
+die Wirklichkeit; the reality
+wahr; true
+bekommen; to receive
+behandeln; to treat
+versuchen; to attempt
+empfehlen; to recommend
+fordern; to promote
+schaffen; to create
+entstehen; to arise
+existieren; to exist
+bestehen; to insist
+vertreten; to represent
+liefern; to supply
+planen; to plan
+aktivieren; to activate
+bilden; to form
+hängen; to hang
+beenden; to end
+eröffnen; to open
+bearbeiten; to edit
+garantieren; to guarantee
+genügen; to suffice
+berechtigen; to entitle
+vermitteln; to convey
+die Magie; the magic
+der Drache; the Dragon
+verwandeln; to transform
+retten; to rescue
+die Hexe; the witch
+der Planet; the planet
+magisch; magical
+entdecken; to discover
+die Dimension; the dimension
+die Galaxie; the Galaxy
+der Weltraum; outer space
+der Raum; the room
+verschwinden; to disappear
+das Einhorn; the unicorn
+unglaublich; incredible
+die Option; the option
+der Sitz; the seat
+die Berechnung; the calculation
+die Figur; the figure
+die Herkunft; the origin
+der Anschluss; the connection
+das Prinzip; the principle
+die Ordnung; the order
+der Ton; the tone
+die Serie; the series
+das Merkmal; the characteristic
+der Zweck; the purpose
+der Austausch; the exchange
+die Abteilung; the department
+die Betreuung; the care
+die Vorbereitung; the preparation
+der Gegensatz; the contrast
+der Lauf; the run
+der Vorteil; the advantage
+die Fassung; the version
+die Wertung; the rating
+die Sicht; the view
+das Format; the format
+die Leitung; the management
+die Situation; the situation
+die Übersicht; the overview
+die Quelle; the source
+der Zusammenhang; the correlation
+die Einheit; the unit
+die Entfernung; the distance
+die Ausnahme; the exception
+die Angabe; the statement
+die Linie; the line
+die Ebene; the level
+die Struktur; the structure
+die Reihe; the line
+der Punkt; the point
+die Bezeichnung; the designation
+das Risiko; the risk
+der Ausdruck; the expression
+der Standard; the standard
+der Schutz; the protection
+die Folge; the episode
+die Möglichkeit; the opportunity
+die Verantwortung; the responsibility
+der Schritt; the step
+die Ansicht; the view
+der Wechsel; the change
+die Breite; the width
+die Anforderung; the requirement
+die Aufgabe; the task
+die Tiefe; the depth
+die Alternative; the alternative
+das Detail; the detail
+der Eintrag; the entry
+die Aufnahme; the admission
+die Grundlage; the basis
+die Art; the kind
+das Teil; the part
+die Anregung; the stimulation
+die Mitte; the center
+das Band; the tape
+die Funktion; the function
+die Nutzung; the use
+der Fehler; the error
+das Klavier; the piano
+der Komponist; the composer
+die Flöte; the flute
+die Melodie; the melody
+die Geige; the violin
+die Trommel; the drum
+der Dirigent; the conductor
+das Orchester; the orchestra
+klingen; to sound
+der Sänger; the singer
+die Sängerin; the singer
+die Oper; the Opera
+das Urteil; the judgment
+die Freiheit; the freedom
+die Strategie; the strategy
+die Veranstaltung; the event
+die Bundesregierung; the Federal government
+die Umfrage; the survey
+das Amt; the office
+das Reich; the realm
+die Polizei; the police
+die Steuer; the tax
+die Wirtschaft; the economy
+korrupt; corrupt
+der Anspruch; the claim
+die Vereinbarung; the agreement
+der Rat; the advice
+der Verband; the association
+protestieren; to protest
+das Fest; the celebration
+die Wurst; the sausage
+das Sauerkraut; the sauerkraut
+die Brezel; the pretzel
+der Kiosk; the kiosk
+Berlin; Berlin
+feiern; to celebrate
+der Kontinent; the continent
+Indien; India
+China; China
+die Union; the union
+europäisch; European
+Australien; Australia
+Asien; Asia
+nördlich; north
+Südamerika; South America
+die Pyramide; the pyramid
+Ägypten; Egypt
+Russland; Russia
+Türkei; Turkey
