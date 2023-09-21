@@ -1,0 +1,11 @@
+pytorch
+gymnasium (previously gym)
+keras-rl
+tensorforce
+rl-coach
+pyqlearning
+tf-agents
+rl
+stable-baselines3
+tensorboard
+optuna --> For hyperparameter tunning
