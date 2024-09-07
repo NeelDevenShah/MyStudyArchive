@@ -1,0 +1,23 @@
+sudo apt install python3
+sudo apt install python3-pip
+sudo apt-get install git-lfs
+git clone https://huggingface.co/datasets/neeldevenshah/powder
+
+---
+
+For downloading file from vm
+scp -i tmpAirlineReview_key.pem azureuser@20.193.130.111:/home/azureuser/code/server.py ./
+
+---
+
+For getting access to the server running on vm, Go to that specific vm from azure ui -> Netowrk settings -> create port rule -> Inbound port -> Add the port number which you want to open -> Protocol ANY -> Action Allow
+
+-------
+
+In azure use the 
+
+%pip install wandb
+
+INSTEAD OF 
+
+!pip install wandb
