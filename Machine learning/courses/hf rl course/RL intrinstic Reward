@@ -1,0 +1,16 @@
+Random Network Distillation (RND) is an exploration technique used in reinforcement learning to encourage agents to explore areas of the environment that are novel or unfamiliar. Here's a brief explanation:
+
+Two neural networks are used:
+
+A fixed, randomly initialized target network
+A predictor network that's trained to mimic the target network
+
+
+The agent receives an intrinsic reward based on the prediction error between these two networks.
+Areas of the environment that are less familiar will have higher prediction errors, resulting in higher intrinsic rewards.
+This encourages the agent to explore unfamiliar states, as they provide higher rewards.
+The intrinsic reward is combined with the environment's extrinsic reward to guide the agent's learning.
+As the agent explores more, the predictor network improves, and the intrinsic reward for familiar areas decreases.
+
+RND helps solve the exploration-exploitation dilemma in reinforcement learning by providing a simple yet effective way to encourage exploration of the entire state space, particularly in environments with sparse extrinsic rewards.
+
